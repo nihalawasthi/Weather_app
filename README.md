@@ -1,9 +1,13 @@
-# URL :- 
+# Demo :- 
+
+![Screenshot (14)](https://github.com/user-attachments/assets/5a57d7a4-258a-44a0-ae90-8d424dad55d5)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/85dfcd88-33cb-44a0-a731-d9c0929c45ec)
+
+
+## URL
 - https://weather-app-32.vercel.app/
 
-## Demo
-
-![Screenshot (10)](https://github.com/user-attachments/assets/b2e2030f-27a7-46a1-8df8-9eb8de420520)
 
 ## ⚡ Install
 
