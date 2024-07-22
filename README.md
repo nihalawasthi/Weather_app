@@ -19,4 +19,4 @@ git clone https://github.com/nihalawasthi/Weather_app.git
 ```
 
 - Install the packages using the command `npm install`
-- Run `npm run dev` to launch
+- Run `npm run start` to launch
